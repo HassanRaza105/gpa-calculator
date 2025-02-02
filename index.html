@@ -16,8 +16,8 @@
             padding: 0;
             display: flex;
             justify-content: center;
-            align-items: center;
-            height: 100vh;
+            align-items: flex-start; /* Changed to flex-start */
+            min-height: 100vh; /* Set a minimum height */
         }
 
         .container {
@@ -28,6 +28,8 @@
             border-radius: 8px;
             box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
             text-align: center;
+            max-height: 90vh; /* Set a max height */
+            overflow-y: auto; /* Enable vertical scrolling if needed */
         }
 
         h1 {
