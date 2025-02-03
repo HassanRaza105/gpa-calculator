@@ -21,9 +21,8 @@ This project showcases the power of **AI-assisted development** and how it can h
 ## 📥 Installation & Usage  
 
 ### **1️⃣ Clone the Repository**  
-```sh
-git clone https://github.com/hassanraza105/gpa-calculator.git
-cd GPA_Calculator_Web
+https://github.com/hassanraza105/gpa-calculator.git
+
 
 ---
 
